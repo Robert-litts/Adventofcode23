@@ -31,7 +31,6 @@ part2 = set()
 part2_score = set()
 final_score = 0
 checklist = []
-anotherset = set()
 r = -1
 for row in input:
     r+=1
